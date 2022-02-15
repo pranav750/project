@@ -1,4 +1,4 @@
-FROM node:16.14.0
+FROM node
 
 RUN mkdir -p /app/client
 
